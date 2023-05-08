@@ -1,4 +1,6 @@
-# PHP.ini Config Window
+# PHP Config Window
+
+## C:\php\php.ini
 
 ```ini
 [PHP]
